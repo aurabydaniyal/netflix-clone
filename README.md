@@ -1,7 +1,5 @@
 # 🎬 Netflix Clone - Frontend React Project
 
-![Netflix Clone Banner](https://via.placeholder.com/1200x400/000000/E50914?text=NETFLIX+CLONE)
-
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.0-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![TMDB API](https://img.shields.io/badge/TMDB-API-01B4E4?logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org/)
